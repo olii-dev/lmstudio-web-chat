@@ -6,7 +6,7 @@ Chat with your models directly from your browser with **dark theme, coloured bub
 ---
 
 ## Features
-- Fully local — runs on your Mac, no CORS issues  
+- Fully local — runs on your computer, no CORS issues  
 - Dark theme with colored chat bubbles  
 - Animated typing for AI responses  
 - Auto-scroll to newest message  
